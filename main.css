@@ -1,0 +1,30 @@
+.menu_div {
+    background-color: gray;
+    color: darkblue;
+}
+
+.base_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 25vh; 
+}
+
+table {
+    width: 100%; /* Estica a tabela horizontalmente */
+    border-collapse: collapse; /* Remove o espaço extra entre as bordas */
+    margin: auto; /* Centraliza a tabela na tela */
+}
+
+table th {
+    background-color: darkblue;
+    color: white;
+}
+
+table th, table td {
+    border: 1px solid darkblue;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
