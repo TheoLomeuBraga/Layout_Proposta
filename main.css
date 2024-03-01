@@ -6,7 +6,7 @@
 .base_grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    height: 25vh; 
+    height: 50vh; 
 }
 
 table {
